@@ -1,0 +1,3 @@
+[submodule "signature_server"]
+	path = signature_server
+	url = git@github.com:yunify/qingstor-demo-signature-server-nodejs.git
