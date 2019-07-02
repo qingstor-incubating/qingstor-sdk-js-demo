@@ -39,3 +39,15 @@ cp config.js.example config.js
 ```
 
 Visit `index.html` and open devtools to read logs.
+
+### Use sdk to do multipart resume upload on browser
+
+```bash
+cd web_multipart_with_signature_server
+# Update config.js into valid value
+cp config.js.example config.js
+```
+
+Visit `index.html` and open devtools to read logs.
+
+This demo will resume the uploads for same filename.

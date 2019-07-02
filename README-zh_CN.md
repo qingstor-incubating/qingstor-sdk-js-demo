@@ -39,3 +39,15 @@ cp config.js.example config.js
 ```
 
 通过浏览器访问 `index.html` 并打开开发者工具查看日志。
+
+### 在浏览器端使用 SDK 进行断点续传
+
+```bash
+cd web_multipart_with_signature_server
+# 更新 config.js 的值
+cp config.js.example config.js
+```
+
+通过浏览器访问 `index.html` 并打开开发者工具查看日志。
+
+这个 Demo 将会自动续传相同文件名的文件
